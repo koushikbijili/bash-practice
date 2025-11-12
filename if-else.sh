@@ -7,7 +7,7 @@ read age
 
 if [ "$age" -ge 18 ]
 then
-    echo "Hi $name, you are eligible to vote ✅"
+    echo "Hi $name, you are eligible to vote "
 else
-    echo "Hi $name, you are not eligible to vote ❌"
+    echo "Hi $name, you are not eligible to vote "
 fi
