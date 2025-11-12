@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧮 Testing WHILE condition"
+echo " Testing WHILE condition"
 
 count=0
 num=10
